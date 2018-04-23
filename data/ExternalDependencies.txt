@@ -1,0 +1,3 @@
+=================================================== WRITE THE DEPENDENCIES BELOW ===============================================================
+I HAD TO USE THE PRETRAINED DATA SET 'glove.6B.50d.txt' FROM "https://nlp.stanford.edu/projects/glove/" WHICH HAD A 50 FEATURE VECTOR FOR EACH WORD
+THEN MADE A FUNCTION "loadGloveModel" WHICH TOOK THE GLOVE FILE AND RETURNED A VARIABLE MODEL CONTAINING 400000 WORDS AND ITS VECTORS.REFERENCED FROM "http://ai.intelligentonlinetools.com/ml/convert-word-to-vector-glove-python/"
